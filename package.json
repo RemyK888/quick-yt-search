@@ -1,0 +1,36 @@
+{
+  "name": "quick-yt-search",
+  "version": "1.0.0",
+  "description": "A package to find and get informations about YouTube videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "YouTube",
+    "search",
+    "quick-yt-search",
+    "RemyK",
+    "dbs",
+    "api",
+    "youtube",
+    "api",
+    "music",
+    "youtube searcher"
+  ],
+  "author": "RemyK#3876",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/RemyK888/quick-yt-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemyK888/quick-yt-search.git"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
